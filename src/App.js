@@ -1,10 +1,12 @@
-import React,{Component} from 'react';
-import Act_info from './middleware/components/Act_info';
-import Act_infolist from './middleware/components/Act_infolist';
-import Act_train from './middleware/components/Act_train';
+import React from 'react';
+import Act_board from './routes/Act_board';
 
-class App extends Component {
-
+function App(){
+    return(
+        <div>
+            <Act_board />
+        </div>
+    )
 }
 
 export default App;
