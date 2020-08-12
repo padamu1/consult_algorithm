@@ -1,5 +1,5 @@
 import React from 'react'
-import Act_infolist from '../components/Act_spawn_mv'
+import Act_spawn_mv from '../components/Act_spawn_mv'
 import Act_spawn from '../components/Act_spawn'
 import Act_train from '../components/Act_train'
 
