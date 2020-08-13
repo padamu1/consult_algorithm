@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React from 'react';
   export default function Act_spawn(w_spawn) {
     switch(w_spawn){
         case w_entity:
