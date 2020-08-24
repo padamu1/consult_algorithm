@@ -5,6 +5,7 @@ function App(){
     return(
         <div>
             <Act_board />
+            <vr />
         </div>
     )
 }
