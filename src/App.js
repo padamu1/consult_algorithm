@@ -3,6 +3,7 @@ import Act_board from './routes/Act_board';
 
 function App(){
     return(
+        
         <div>
             <Act_board />
             <hr width="1" size="500" /> 
@@ -11,3 +12,5 @@ function App(){
 }
 // hr is veritical
 export default App;
+
+
